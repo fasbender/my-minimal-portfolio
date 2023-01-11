@@ -17,7 +17,7 @@ jobs:
       run: |
         unset CI
         npm install
-        npm vite build
+        npm run build
     
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
@@ -25,4 +25,4 @@ jobs:
         server: 193.168.192.154
         username: u877982310.faisalamgir
         password: Faisal2022!
-        local-dir: ./build/
+        local-dir: ./dist/
