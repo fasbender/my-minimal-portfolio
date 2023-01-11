@@ -17,7 +17,7 @@ jobs:
       run: |
         unset CI
         npm install
-        npm run build
+        npm vite build
     
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
