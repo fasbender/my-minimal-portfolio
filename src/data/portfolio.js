@@ -41,4 +41,16 @@ export default [
       stack: ['HTML', 'CSS', 'JavaScript', 'React'],
       link: 'https://quiz.faisalbinalamgir.dev/',
    },
+   {
+      title: 'Zindagi Trust Clone Website',
+      imgUrl: '/assets/Screenshot_10.png',
+      stack: ['HTML', 'Tailwind', 'JavaScript', 'React'],
+      link: 'https://zindagitrustclone.netlify.app/',
+   },
+   {
+      title: 'WFL Foundation Clone Website',
+      imgUrl: '/assets/Screenshot_11.png',
+      stack: ['HTML', 'Tailwind', 'JavaScript', 'React'],
+      link: 'https://wfhfoundationclone.netlify.app/',
+   },
 ]
