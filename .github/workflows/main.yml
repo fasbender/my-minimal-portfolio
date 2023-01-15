@@ -25,4 +25,4 @@ jobs:
         server: 193.168.192.154
         username: u877982310.faisalamgir
         password: Faisal2022!
-        local-dir: ./dist/
+        local-dir: ./dist
