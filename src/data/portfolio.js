@@ -53,4 +53,10 @@ export default [
       stack: ['HTML', 'Tailwind', 'JavaScript', 'React'],
       link: 'https://wfhfoundationclone.netlify.app/',
    },
+   {
+      title: 'NSRIC International School Website',
+      imgUrl: '/assets/Screenshot_12.png',
+      stack: ['HTML', 'CSS', 'JavaScript', 'Owl Carousel'],
+      link: 'https://nsric.faisalbinalamgir.dev/',
+   },
 ]
